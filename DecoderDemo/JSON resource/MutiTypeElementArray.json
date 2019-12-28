@@ -1,0 +1,12 @@
+{
+    "id":"aa3145",
+    "type":"payment",
+    "paymentInfo":[
+        "uid331459",
+        "王小明",
+        {
+            "create_time":1574006400,
+            "price": 30000
+        }
+    ]
+}
